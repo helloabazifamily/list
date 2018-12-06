@@ -21,6 +21,5 @@ my_name = my_firstname + " " + my_lastname
 print("Hello, My name is " + my_name)
 print("My Firstname has", len(my_firstname), "characters.")
 print("My Lastname has", len(my_lastname), "characters.")
-#print(calculate_age("1999"))
 print(date_today())
 print(time_now())
