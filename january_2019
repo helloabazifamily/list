@@ -7,7 +7,7 @@ https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/136.ts
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/60.ts
 #EXTINF:0 tvg-shift=0 tvg-name="RTV 21",RTV 21
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/59.ts
-#EXTINF:0 tvg-shift=2 tvg-name="KTV",KTV
+#EXTINF:0 tvg-name="KTV" tvg-shift=2 tvg-logo="http://albepg.com/tvlogi/KTV.png",KTV
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/62.ts
 #EXTINF:0 tvg-shift=0 tvg-name="T7",T7
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/211.ts
