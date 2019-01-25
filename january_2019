@@ -9,7 +9,7 @@ https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/60.ts
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/59.ts
 #EXTINF:0 tvg-shift=0 tvg-name="KTV",KTV
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/62.ts
-#EXTINF:-1,T7
+#EXTINF:0 tvg-shift=0 tvg-name="T7",T7
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/211.ts
 #EXTINF:0 tvg-shift=0 tvg-name="Klan Kosova",Klan Kosova
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/55.ts
@@ -19,7 +19,7 @@ https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/71.ts
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/57.ts
 #EXTINF:0 tvg-shift=0 tvg-name="Klan HD",Klan HD
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/63.ts
-#EXTINF:0 tvg-shift=0 tvg-name="TV Mitrovica",Mitrovica
+#EXTINF:0 tvg-shift=0 tvg-name="TV Mitrovica",TV Mitrovica
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/54.ts
 #EXTINF:0 tvg-shift=0 tvg-name="Top Channel",Top Channel
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/58.ts
@@ -47,12 +47,10 @@ https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/247.ts
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/86.ts
 #EXTINF:-1,AlbHumor 2
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/87.ts
-#EXTINF:-1,P Hajgare 1
+#EXTINF:-1,P Hajgare 1 (HD)
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/536.ts
-#EXTINF:-1,P Hajgare 2
+#EXTINF:-1,P Hajgare 2 (HD)
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/561.ts
-#EXTINF:-1,P Hajgare 3
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/570.ts
 #EXTINF:-1,P Tom and Jerry
 https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/531.ts
 #EXTINF:-1,P Film Shqip KS
