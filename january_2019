@@ -1,125 +1,51 @@
 #EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
-#EXTINF:0 tvg-shift=0 tvg-name="RTK 1",RTK 1
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/61.ts
-#EXTINF:0 tvg-shift=0 tvg-name="RTK 3",RTK 3
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/136.ts
-#EXTINF:0 tvg-shift=0 tvg-name="RTK 4",RTK 4
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/60.ts
-#EXTINF:0 tvg-shift=9 tvg-name="RTV 21 HD",RTV 21
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/59.ts
-#EXTINF:0 tvg-name="KTV HD" tvg-shift=2 tvg-logo="http://albepg.com/tvlogi/KTV.png",KTV
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/62.ts
-#EXTINF:0 tvg-shift=0 tvg-name="T7",T7
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/211.ts
-#EXTINF:0 tvg-shift=0 tvg-name="Klan Kosova",Klan Kosova
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/55.ts
-#EXTINF:0 tvg-shift=0 tvg-name="AlsatM",AlsatM
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/71.ts
-#EXTINF:0 tvg-shift=0 tvg-name="first CHANNEL",First Channel
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/57.ts
-#EXTINF:0 tvg-shift=0 tvg-name="Klan HD",Klan HD
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/63.ts
-#EXTINF:0 tvg-shift=0 tvg-name="TV Mitrovica",TV Mitrovica
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/54.ts
-#EXTINF:0 tvg-shift=0 tvg-name="Top Channel",Top Channel
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/58.ts
-#EXTINF:0 tvg-shift=0 tvg-name="Vizion Plus",Vizion Plus
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/49.ts
-#EXTINF:0 tvg-shift=0 tvg-name="TV Dukagjini",TV Dukagjini
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/79.ts
-#EXTINF:0 tvg-shift=0 tvg-name="Drita TV",Drita TV
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/194.ts
-#EXTINF:-1,Shota TV
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/196.ts
-#EXTINF:-1,Usa Chikago (HD)
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/197.ts
-#EXTINF:-1,Bujanoci
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/215.ts
-#EXTINF:-1,Presheva TV
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/214.ts
-#EXTINF:-1,Uskana TV
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/212.ts
-#EXTINF:-1,Istogu TV (HD)
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/245.ts
-#EXTINF:-1,P Televizioni IPTVShqip
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/247.ts
-#EXTINF:-1,AlbHumor 1
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/86.ts
-#EXTINF:-1,AlbHumor 2
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/87.ts
-#EXTINF:-1,P Hajgare 1 (HD)
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/536.ts
-#EXTINF:-1,P Hajgare 2 (HD)
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/561.ts
-#EXTINF:-1,P Tom and Jerry
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/531.ts
-#EXTINF:-1,P Film Shqip KS
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/538.ts
-#EXTINF:-1,P Filma Premier
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/537.ts
-#EXTINF:-1,P Filma Vizatimor
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/540.ts
-#EXTINF:-1,P Karate
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/535.ts
-#EXTINF:-1,P Muzika Dashnis
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/534.ts
-#EXTINF:-1,P Pleqenaret
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/533.ts
-#EXTINF:-1,P Shahirat 2
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/539.ts
-#EXTINF:-1,P Filma Aksion
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/541.ts
-#EXTINF:-1,P Film Horror
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/543.ts
-#EXTINF:-1,P Film Romance
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/542.ts
-#EXTINF:-1,P Film Hacker
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/554.ts
-#EXTINF:-1,P Enigma
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/558.ts
-#EXTINF:-1,P Film Lufte
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/557.ts
-#EXTINF:-1,P Gags
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/556.ts
-#EXTINF:-1,P Gjurmet
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/555.ts
-#EXTINF:-1,P Filma Vizatimor 2
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/559.ts
-#EXTINF:-1,P Film Comedy
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/560.ts
-#EXTINF:-1,P Doku Mix
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/563.ts
-#EXTINF:-1,P Kenge e Mahi
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/564.ts
-#EXTINF:-1,P Cowboy
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/565.ts
-#EXTINF:-1,P Portokalli
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/566.ts
-#EXTINF:-1,P Filma Festiv
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/568.ts
-#EXTINF:-1,P Fol Shqip Show
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/569.ts
-#EXTINF:-1,Super Sport 1
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/88.ts
-#EXTINF:-1,Super Sport 2
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/53.ts
-#EXTINF:-1,Super Sport 3
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/52.ts
-#EXTINF:-1,Super Sport 4
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/193.ts
-#EXTINF:-1,Super Sport 5
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/199.ts
-#EXTINF:-1,Super Sport 6
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/223.ts
-#EXTINF:-1,Tring Sport 1
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/47.ts
-#EXTINF:-1,Tring Sport 2
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/90.ts
-#EXTINF:-1,Tring Sport 3
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/89.ts
-#EXTINF:-1,Super Sport Kosova 1
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/72.ts
-#EXTINF:-1,SS Kosova 2
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/210.ts
-#EXTINF:-1,URL
-http://direkt.serveri.stream:8880/get.php?username=iphone&password=pa%24%24w0rd&type=m3u
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="RTK 1" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",RTK 1 (1280x720)
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="RTK 2" tvg-logo="http://albepg.com/tvlogi/RTK%202.png",RTK 2 (1280x720)
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="RTK 3" tvg-logo="http://albepg.com/tvlogi/RTK%203.png",RTK 3 (1280x720)
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="RTK 4" tvg-logo="http://albepg.com/tvlogi/RTK%204.png",RTK 4 (1280x720)
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Klan Kosova" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png",Klan Kosova (300x200)
+http://188.138.1.82:8081/streamrtmp/klankosova/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Rrokum TV" tvg-logo="http://www.albepg.com/tvlogi/Rrokum%20TV.png",Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="INTV" tvg-logo="http://albepg.com/tvlogi/INTV.png",IN TV
+http://80.91.115.211:1935/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Top Channel" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel.png",Top Channel (300x200)
+http://188.138.1.82:8081/streamrtmp/topchannel/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxNSAxOjE0OjQ3IFBNJmhhc2hfdmFsdWU9RnlTTmM4VWdISThtSnpYNW9HZW1xUT09JnZhbGlkbWludXRlcz0zNjA=
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Film Aksion" tvg-logo="http://albepg.com/tvlogi/Film%20Aksion.png",DigitAlb Film Aksion (300x200)
+http://188.138.1.82:8081/streamrtmp/aksion/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxNSAxOjE0OjQ3IFBNJmhhc2hfdmFsdWU9RnlTTmM4VWdISThtSnpYNW9HZW1xUT09JnZhbGlkbWludXRlcz0zNjA=
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Film Komedi" tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png",DigitAlb Film Komedi (300x200)
+http://85.25.218.196:8081/streamrtmp/komedi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAxNSAxMDozODo1MSBQTSZoYXNoX3ZhbHVlPVlZZnJDVytLdmlaa28rTDRHNWxHenc9PSZ2YWxpZG1pbnV0ZXM9MzYw
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Cufo TV" tvg-logo="http://albepg.com/tvlogi/Cufo%20TV.png",Cufo TV [Femijë] (300x200)
+http://188.138.1.82:8081/streamrtmp/cufo/chunks.m3u8
+#EXTINF:0 group-title="Dokumentare" tvg-shift=0 tvg-name="EXPLORER Shkence" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png",Explorer Shkence (300x200)
+http://85.25.218.196:8081/streamrtmp/expshkence/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png",Report TV (800X450)
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:-1,RTV Pendimi
+http://rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+#EXTINF:-1,RTV Zëri Danimarkë (Music 24/7)
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Rrokum TV" tvg-logo="http://albepg.com/tvlogi/Rrokum%20TV.png",Rrokum TV (1280X720)
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="TV Opoja" tvg-logo="http://albepg.com/tvlogi/TV%20Opoja.png",TV Opoja (1280x720)
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="TV Tetova" tvg-logo="http://albepg.com/tvlogi/TV%20Tetova.png",TV Tetova (1280x720)
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="RTSH Film" tvg-logo="http://albepg.com/tvlogi/RTSH%20Film.png",RTSH Film (300X240)
+http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="RTSH Sport" tvg-logo="http://albepg.com/tvlogi/RTSH%20Sport.png",RTSH Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Zjarr TV" tvg-logo="http://albepg.com/tvlogi/Zjarr%20TV.png",Zjarr TV (720X480)
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+#EXTINF:-1,TVLir (640X368)
+http://178.132.6.97:8080/tvlir1/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV2 Gostivar (1024X576)
+http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Peace TV" tvg-logo="http://albepg.com/tvlogi/Peace%20TV.png",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0 group-title="Gjenerale" tvg-shift=0 tvg-name="Ora News" tvg-logo="http://albepg.com/tvlogi/Ora%20News.png",Ora News (1280X720)
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
